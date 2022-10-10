@@ -1,4 +1,4 @@
-### Hi there 👋
+hello I am Samuel and I'm an IB studnet stuying in Vancouver. I wouldn't call myself a software engineer cuz I just make stuff that either makes me happy or stuff that benefit my life. Btw don't expect me to post stuff on here cuz making stuff doesn't mean knowing how to put stuff on github (lol what a shit guy). Coding is just my interest so I can make some RNG heavy games to fuck myself over like getting the same support card for 6 times in a row and Im not fixing it. Anyway wish you have a good day.
 
 <!--
 **StarrryNight/StarrryNight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
