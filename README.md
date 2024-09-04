@@ -1,4 +1,4 @@
-Hi. Welcome to the repository of some of my coding projects. Most of them are made for fun and are not for competitive/commercial use. I had a lot of fun making them and I learned a lot!
+Hi. Welcome to the repository of some of my coding projects. Most of them are made for fun and are not for competitive/commercial use. I had a lot of fun making them and I learned a lot! Im also currently working on wordpress web design and my copying writing skills, as I want to become a freelance website designer some time later.
 <!--
 **StarrryNight/StarrryNight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
